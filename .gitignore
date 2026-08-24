@@ -1,0 +1,33 @@
+# Ignore list for KiCAD Projects
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_pcb.lck
+~*.lck
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+# Netlist files (exported from Eeschema)
+*.net
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+# fabrication file
+fabrication-toolkit-options.json
+fp-info-cache
+sym-lib-table
+**/One-Air-Max-backups/
+*.kicad_sch-bak
+CLAUDE.md
+Doc/
+
+# History / lock / backup artifacts
+.history/
+.~lock.*#
+**/production/backups/
