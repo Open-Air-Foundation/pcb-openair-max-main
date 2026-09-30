@@ -27389,7 +27389,7 @@
 			(uuid "1b4cb4a8-64f1-4a99-ab87-06310068e55c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34231,7 +34231,7 @@
 			(uuid "80cad4da-9ac0-4507-bafe-d9e19c0d3daa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37995,7 +37995,7 @@
 			(uuid "ad536966-1ff3-40b8-b3b2-b0d2ada4dd6b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51282,7 +51282,7 @@
 			(uuid "52a7e99a-553e-4eaa-b6ba-c44cf5f49e59")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52817,7 +52817,7 @@
 			(uuid "315ca3a4-4ccd-4428-9da2-120c5c45e071")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../../libraries/easyeda2kicad/easyeda2kicad.3dshapes/SOD-323_L1.7-W1.3-H1.1-LS2.5.wrl"
+		(model "${KIPRJMOD}/../../libraries/easyeda2kicad/easyeda2kicad.3dshapes/SOD-323_L1.8-W1.3-LS2.5-RD.wrl"
 			(offset
 				(xyz -0.14 0 -0)
 			)
